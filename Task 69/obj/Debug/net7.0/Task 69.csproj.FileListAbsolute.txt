@@ -1,0 +1,15 @@
+C:\Users\Руслан\Desktop\Гульчачак\GeekBrains\C#Семинар9\Task 69\bin\Debug\net7.0\Task 69.exe
+C:\Users\Руслан\Desktop\Гульчачак\GeekBrains\C#Семинар9\Task 69\bin\Debug\net7.0\Task 69.deps.json
+C:\Users\Руслан\Desktop\Гульчачак\GeekBrains\C#Семинар9\Task 69\bin\Debug\net7.0\Task 69.runtimeconfig.json
+C:\Users\Руслан\Desktop\Гульчачак\GeekBrains\C#Семинар9\Task 69\bin\Debug\net7.0\Task 69.dll
+C:\Users\Руслан\Desktop\Гульчачак\GeekBrains\C#Семинар9\Task 69\bin\Debug\net7.0\Task 69.pdb
+C:\Users\Руслан\Desktop\Гульчачак\GeekBrains\C#Семинар9\Task 69\obj\Debug\net7.0\Task 69.csproj.AssemblyReference.cache
+C:\Users\Руслан\Desktop\Гульчачак\GeekBrains\C#Семинар9\Task 69\obj\Debug\net7.0\Task 69.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Руслан\Desktop\Гульчачак\GeekBrains\C#Семинар9\Task 69\obj\Debug\net7.0\Task 69.AssemblyInfoInputs.cache
+C:\Users\Руслан\Desktop\Гульчачак\GeekBrains\C#Семинар9\Task 69\obj\Debug\net7.0\Task 69.AssemblyInfo.cs
+C:\Users\Руслан\Desktop\Гульчачак\GeekBrains\C#Семинар9\Task 69\obj\Debug\net7.0\Task 69.csproj.CoreCompileInputs.cache
+C:\Users\Руслан\Desktop\Гульчачак\GeekBrains\C#Семинар9\Task 69\obj\Debug\net7.0\Task 69.dll
+C:\Users\Руслан\Desktop\Гульчачак\GeekBrains\C#Семинар9\Task 69\obj\Debug\net7.0\refint\Task 69.dll
+C:\Users\Руслан\Desktop\Гульчачак\GeekBrains\C#Семинар9\Task 69\obj\Debug\net7.0\Task 69.pdb
+C:\Users\Руслан\Desktop\Гульчачак\GeekBrains\C#Семинар9\Task 69\obj\Debug\net7.0\Task 69.genruntimeconfig.cache
+C:\Users\Руслан\Desktop\Гульчачак\GeekBrains\C#Семинар9\Task 69\obj\Debug\net7.0\ref\Task 69.dll
